@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-05-27_1555",
+    "name": "Confirmação",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -30,6 +30,8 @@
       "additionalSetColors": []
     },
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/shoppingcart-accept-compra-12832-128x128.png",
+    "noImageResize": "",
     "versionFirst": "4.7.6",
     "uniqCompNum": 2,
     "versionPublish": "4.7.6"
@@ -38,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Confirmação",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
